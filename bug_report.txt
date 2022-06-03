@@ -4,7 +4,7 @@ Priority: High
 Severity: Blocker
 SourceURL: http://somelink.com
 Reproduce steps: 1. Click Update button
-Actual result: Error message
+Actual result: Error message Exception 0000x985
 Expected result: Update mail web-interface
 Reported by: Tester A
 Environment: Chrome 99.0.428, 1370x764 viewport
